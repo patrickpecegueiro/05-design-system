@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@patrick-ignite-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,10 +13,10 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@patrick-ignite-ui/eslint-config": "*",
+    "@patrick-ignite-ui/react": "*",
+    "@patrick-ignite-ui/tokens": "*",
+    "@patrick-ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^7.0.2",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
