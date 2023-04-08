@@ -1,4 +1,4 @@
-# @patrick-ignite-ui/ts-config
+# @ppecegueiro-ignite-ui/ts-config
 
 ## 3.0.0
 

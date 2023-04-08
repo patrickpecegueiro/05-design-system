@@ -1,4 +1,4 @@
-# @patrick-ignite-ui/tokens
+# @ppecegueiro-ignite-ui/tokens
 
 ## 3.0.0
 

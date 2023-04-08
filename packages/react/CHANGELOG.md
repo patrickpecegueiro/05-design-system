@@ -1,4 +1,4 @@
-# @patrick-ignite-ui/react
+# @ppecegueiro-ignite-ui/react
 
 ## 3.0.0
 

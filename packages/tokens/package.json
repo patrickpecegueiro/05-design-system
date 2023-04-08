@@ -1,5 +1,5 @@
 {
-  "name": "@patrick-ignite-ui/tokens",
+  "name": "@ppecegueiro-ignite-ui/tokens",
   "version": "3.0.0",
   "description": "",
   "main": "/dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@patrick-ignite-ui/eslint-config": "*",
-    "@patrick-ignite-ui/ts-config": "*",
+    "@ppecegueiro-ignite-ui/eslint-config": "*",
+    "@ppecegueiro-ignite-ui/ts-config": "*",
     "tsup": "^6.7.0",
     "typescript": "^5.0.2"
   }
